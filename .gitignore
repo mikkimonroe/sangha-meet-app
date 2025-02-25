@@ -1,7 +1,7 @@
 *.swp
 .*.tmp
 deploy-local.sh
-libs/
+# libs/
 all.css
 *css.map
 .remote-sync.json
@@ -20,7 +20,7 @@ Pods/
 
 # Xcode
 #
-build/
+# build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -42,7 +42,7 @@ project.xcworkspace
 
 # Android/IntelliJ
 #
-build/
+# build/
 .idea
 .gradle
 local.properties
