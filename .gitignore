@@ -47,6 +47,7 @@ project.xcworkspace
 .gradle
 local.properties
 *.iml
+*.map
 
 # node.js
 #
