@@ -228,8 +228,8 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
                             {t('welcomepage.headerSubtitle')}
                         </span>
                         <span className = 'header-text-subtitle'>
-                            To join an existing sangha, enter the name<br/>
-                            To create a new sangha, enter a unique name<br/>
+                            To join an existing room, enter the name<br/>
+                            To create a new room, enter a unique name<br/>
                         </span>
                         <div id = 'enter_room'>
                             <div className = 'join-meeting-container'>
